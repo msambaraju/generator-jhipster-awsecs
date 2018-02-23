@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "msambaraju",
+      "authorName": "Mallik Sambaraju",
+      "authorEmail": "msambaraju@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
